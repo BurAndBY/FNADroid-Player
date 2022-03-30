@@ -1,5 +1,4 @@
 name: .NET
-  uses: vgaidarji/android-github-actions-build@v1.0.1
 on:
   push:
     branches: [ master ]
